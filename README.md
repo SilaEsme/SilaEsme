@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋 I am Sıla.
+### I am computer engineer student.
+#### -⚡ My skills are C/C++/C#/MSSQL.
+#### -🌱 I’m currently learning Python.
+#### -📫 My contact: silaesme@gmail.com
 
 <!--
 **SilaEsme/SilaEsme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
