@@ -1,8 +1,9 @@
 ## Hi there 👋 I am Sıla.
-### I am computer engineer student.
+### I am computer engineering student.
 #### -⚡ My skills are C/C++/C#/MSSQL.
 #### -🌱 I’m currently learning Python and ASP.Net Core.
 #### -📫 My contact: silaesme@gmail.com
+#### - 🔭 I’m currently working as an intern at IWT Digital Media Agency.
 
 <!--
 **SilaEsme/SilaEsme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
