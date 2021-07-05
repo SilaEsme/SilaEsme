@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Sıla.
 ### I am computer engineer student.
 #### -⚡ My skills are C/C++/C#/MSSQL.
-#### -🌱 I’m currently learning Python.
+#### -🌱 I’m currently learning Python and ASP.Net Core.
 #### -📫 My contact: silaesme@gmail.com
 
 <!--
