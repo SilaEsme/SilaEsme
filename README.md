@@ -1,9 +1,8 @@
 ## Hi there 👋 I am Sıla.
 ### I am computer engineering student.
 #### -⚡ My skills are C/C++/C#/MSSQL.
-#### -🌱 I’m currently learning Python and ASP.Net/core.
+#### -🌱 I’m currently learning Python and Data Science.
 #### -📫 My contact: silaesme@gmail.com
-#### -🔭 I’m currently working as an intern at IWT Digital Media Agency.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/silaesme/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dossrior)
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/silaesme) -->  
