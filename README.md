@@ -4,8 +4,7 @@
 #### -🌱 I’m currently learning Python and Data Science.
 #### -📫 My contact: silaesme@gmail.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/silaesme/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dossrior)
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/silaesme) -->  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/silaesme/) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilaEsme)](https://github.com/anuraghazra/github-readme-stats)
 
