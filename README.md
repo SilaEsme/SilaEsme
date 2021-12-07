@@ -8,9 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilaEsme)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilaEsme&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SilaEsme)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilaEsme&show_icons=true)
 
 ![image title](https://rushter.com/counter.svg)
 
