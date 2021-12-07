@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Sıla.
 ### I am computer engineering student.
-#### -⚡ My skills are C/C++/C#/MSSQL.
+#### -⚡ My skills are C/C++/.NET/MSSQL.
 #### -🌱 I’m currently learning Python and Data Science.
 #### -📫 My contact: silaesme@gmail.com
 
@@ -12,7 +12,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SilaEsme)  
 
-![Profile views](https://gpvc.arturio.dev/SilaEsme)  
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
 <!--
 **SilaEsme/SilaEsme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
