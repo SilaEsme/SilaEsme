@@ -13,7 +13,6 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SilaEsme)  
 
 ![image title](https://rushter.com/counter.svg)
-![Visitor Count](https://profile-counter.glitch.me/SilaEsme/count.svg)
 
 <!--
 **SilaEsme/SilaEsme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
