@@ -6,7 +6,6 @@
 		Name = "Sıla",
 		Surname = "Eşme",
 		Gender = "Female",
-		SkillList = {"C","C++","C#", "HTML", "CSS","ASP .NET Core", "MSSQL", "Git", "Bash"},
 		LangList = {{"Turkish", "Mother Tongue"}, {"English", "Upper-Intermediate}},
 		Hobbies = {"Gaming", "Photographing", "Researching", "Trading"}
 	});
