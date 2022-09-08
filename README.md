@@ -14,7 +14,7 @@ Student student = new Student({
 	Name = "Sıla",
 	Surname = "Eşme",
 	Gender = "Female",
-	LangList = {{"Turkish", "Mother Tongue"}, {"English", "Upper-Intermediate}},
+	LangList = {{"Turkish", "Mother Tongue"}, {"English", "Upper-Intermediate}}
 	Hobbies = {"Gaming", "Photographing", "Researching", "Trading"}
 });
 student.Run();
