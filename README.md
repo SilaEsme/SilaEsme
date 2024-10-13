@@ -1,13 +1,8 @@
-<div align="center">
+<div>
 <h1 align="center">Hello World! 👋</h1>
+### <div>🚀 I am Computer Engineer 🚀</div>  
 </div>  
-  
-
-### <div align="center">🚀 I am Computer Engineer 🚀</div>  
-  
-
 #   
-  
 
 ```csharp
 Student student = new Student({
