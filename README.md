@@ -1,9 +1,7 @@
-<div>
-<h1 align="center">Hello World! 👋</h1>
-</div>  
+<h1>Hello World! 👋</h1>
 
-#   
 ### <div>🚀 I am Computer Engineer 🚀</div>  
+
 ```csharp
 Student student = new Student({
 	Name = "Sıla",
