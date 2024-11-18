@@ -1,7 +1,5 @@
 <h1>Hello World! 👋</h1>
 
-### <div>🚀 I am Computer Engineer 🚀</div>  
-
 ```csharp
 Student student = new Student({
 	Name = "Sıla",
@@ -19,7 +17,7 @@ void Run(){
 		Play(); Research(); Code(); Learn();
 }
 ```  
-  
+Also, petrolistan.com  
 
 <br/>  
 
